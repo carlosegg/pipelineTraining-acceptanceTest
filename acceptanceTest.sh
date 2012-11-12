@@ -83,6 +83,11 @@ function acceptanceTestIndex(){
    return $?
 }
 
+function acceptanceTestIndex(){
+   httpOK "$URL_SERVER/example.html"
+   return $?
+}
+
 function executeTest(){
    failed=false
    for acceptanceTest in `cat $0|grep "^function acceptanceTest.*()"\
