@@ -3,6 +3,7 @@ pelineTraining-acceptanceTest
 
 Tests  de aceptación para el curso sobre la deployment pipeline.
 
+
 Hola,
 Confirmamos el 13 de Noviembre para los talleres presenciales en Barcelona, para formar al equipo de Sogeti. 
 A los formadores de Sogeti: Santiago Estela (la persona de Bilbao) y Adolfo.
